@@ -6,3 +6,9 @@ Lessons
 Batch Timings
 Course Duration
 
+No of Students
+
+
+Last Class Recall
+
+

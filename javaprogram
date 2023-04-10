@@ -1,5 +1,18 @@
-class firstproject{  
-    public static void main(String args[]){  
-     System.out.println("Hello everyone! good Evening");  
-    }  
-}  
+public class IntroductionToJava {
+
+	public static void main(String[] args) {
+		
+		String lesson = "Introduction to Java";
+		String batchTimings = "9.00am - 11.00am";
+		int courseDuration = 3;
+		int noOfStudents = 20;
+		String lastClassRecall = "We learnt about ArrayList";
+		
+		System.out.println("Lesson: " + lesson);
+		System.out.println("Batch Timings: " + batchTimings);
+		System.out.println("Course Duration: " + courseDuration + " weeks");
+		System.out.println("No of Students: " + noOfStudents);
+		System.out.println("Last Class Recall: " + lastClassRecall);
+	}
+
+}
